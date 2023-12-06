@@ -14,20 +14,20 @@
 
     <string-array name="data_name">
         <item>Loading animation</item>
-        <item>Luffy</item>
-        <item>Zoro</item>
-        <item>Sanji</item>
-        <item>Franky</item>
-        <item>Robin</item>
-        <item>Jinbei</item>
-        <item>Nami</item>
-        <item>Chopper</item>
-        <item>Brook</item>
-        <item>Momo</item>
-        <item>Yamato</item>
-        <item>Kinemon</item>
-        <item>Ashura</item>
-        <item>Shanks</item>
+        <item>Forms Animated Submission Form</item>
+        <item>Form CSS</item>
+        <item>Loader animation</item>
+        <item>Input animated button</item>
+        <item>Responsive Layout</item>
+        <item>Colorful Fluid Cursor</item>
+        <item>Glassmorphism Login Form</item>
+        <item>Animated Slider</item>
+        <item>Attractive Product Card</item>
+        <item>Attractove Weather Apk</item>
+        <item>Attractive Shopping Website</item>
+        <item>Attractive Login Form</item>
+        <item>Attractive Product Card</item>
+        <item>Attractive Music Player</item>
     </string-array>
 
     <string-array name="data_description">
@@ -64,7 +64,7 @@
         <item>@raw/anime12</item>
         <item>@raw/anime13</item>
         <item>@raw/anime14</item>
-        <item>@raw/anime0</item>
+
     </array>
     <integer-array name="data_photo">
         <item>@drawable/gambar1</item>
